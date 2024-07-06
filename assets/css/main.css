@@ -4984,7 +4984,7 @@ a img {
 }
 
 .tech {
-    margin: 10px
+    margin: 7px
 }
 
 .user {
@@ -5125,4 +5125,16 @@ a img {
     text-decoration: none;
     margin: 0;
     color: #fff
+}
+.smart{
+    width:200px;
+    height:250px;
+    margin-right: 40px;
+}
+.localu{
+    margin-top: 100px;
+}
+.Achievements{
+    align-items: center;
+    text-align: center;
 }
